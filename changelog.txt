@@ -1,0 +1,5 @@
+v1.01 - 2010-04-11
+  Added: Info if there are no search results for the current post
+  
+v1.00 - 2010-04-08
+  Initial Version
